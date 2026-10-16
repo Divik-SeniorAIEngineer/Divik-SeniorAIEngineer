@@ -1,6 +1,6 @@
 # Hi there 😊, I'm a Senior AI Engineer
 
-### Powered by Python, coffee, and vanishing gradients — experimenting with AI until either the model converges or I do  😄 
+####  Powered by Python and coffee — experimenting with AI until either the model converges or I do 🤓.
 
 ## 🚀 About Me
 
